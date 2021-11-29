@@ -3,6 +3,4 @@ public struct Aeternity {
 
     public init() {
     }
-    
-    public private(set) var account = AccountAPI()
 }
